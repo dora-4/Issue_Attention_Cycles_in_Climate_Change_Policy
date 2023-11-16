@@ -3,7 +3,7 @@
 
 # Issue Attention Cycles in Climate Change Policy: A Case Study of the Paris Agreement
 
-The code and data in this repository is a reproducible research workflow for "Issue Cycles in Climate Change Policy: A Case Study of the Paris Agreement" of MACS 30200 "Perspectives on Computational Research" at the University of Chicago.
+The code and data in this repository is a reproducible research workflow for "Issue Cycles in Climate Change Policy: A Case Study of the Paris Agreement" at the University of Chicago.
 
 ## How to use it
 
